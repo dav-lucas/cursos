@@ -1,12 +1,26 @@
-
+# IDEs
 .idea/
 *.iml
+.vscode/
+
+# Build (Java)
+target/
+build/
 out/
 gen/
 
+# Gradle
+.gradle/
 
+# Logs
+*.log
+
+# Sistema
 .DS_Store
 Thumbs.db
 
-
+# Java
 *.class
+
+# Ambiente
+.env
